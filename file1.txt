@@ -1,6 +1,0 @@
-This is my first file Git1
-<<<<<<< HEAD
-Addding 2nd line (at working directory file) to test sync between git local repository and working directory
-this is testing for local cache remove
-=======
->>>>>>> parent of a9c3a3c... tried to commit without running git add
