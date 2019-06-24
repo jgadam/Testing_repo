@@ -1,2 +1,6 @@
 This is my first file Git1
+<<<<<<< HEAD
 Modified by Jayanth
+=======
+2nd line added by venkat
+>>>>>>> 2a87e74ebadb9b1e75c04f1b40c830b9e92bd7c6
